@@ -4,7 +4,7 @@ on: push
 
 jobs:
   build-windows-msi:
-    name: Windows Build (MSI)
+    name: Windows Build (MSI}
     runs-on: self-hosted
     steps:
       - name: Install Qt
